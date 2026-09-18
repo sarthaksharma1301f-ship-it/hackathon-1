@@ -3,7 +3,7 @@
 **Category:** Creator Economy  
 **Doc Owner:** Sarthak  
 **Status:** Hackathon Submission Ready  
-**Project Workspace:** `C:\Users\NITRO V15\.gemini\antigravity\scratch\creator-gig-marketplace`
+**Project Workspace:** `C:\Users\NITRO V15\.creator-gig-marketplace`
 
 ---
 
